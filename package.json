@@ -1,0 +1,20 @@
+{
+  "name": "react-native-snack",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.8.x",
+    "react-native": "^0.6x.x",
+    "react-native-vector-icons": "^7.x"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
